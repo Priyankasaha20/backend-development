@@ -18,3 +18,4 @@ var ans=arr.filter(function(val){
 console.log(ans);
 
 //find simply finds if the val is present or not
+//indexOf of the elment present if or not
